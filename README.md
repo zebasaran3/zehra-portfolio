@@ -1,6 +1,6 @@
 # Zehra Basaran
 
-This is portfolio repository 
+Welcome to my portfolio repository 
 
 I am currently an MSc Robotics & Artificial Intelligence student at Queen Mary University of London, with a strong interest in software engineering and data-driven problem solving.
 
